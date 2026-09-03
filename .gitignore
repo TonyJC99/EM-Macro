@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated data outputs
+data/*.xlsx
+data/*.csv
